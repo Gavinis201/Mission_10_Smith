@@ -125,3 +125,4 @@
 /Users/gavinsmith/Desktop/Mission_10_Smith/backend/Mission_10_Smith/Mission_10_Smith/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/gavinsmith/Desktop/Mission_10_Smith/backend/Mission_10_Smith/Mission_10_Smith/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/gavinsmith/Desktop/Mission_10_Smith/backend/Mission_10_Smith/Mission_10_Smith/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/gavinsmith/Desktop/Mission_10_Smith/backend/Mission_10_Smith/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.sourcelink.json

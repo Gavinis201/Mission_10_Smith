@@ -37,7 +37,9 @@ function BowlerList(){
                             <td>{f.bowlerAddress}</td>
                             <td>{f.bowlerCity}</td>
                             <td>{f.bowlerState}</td>
+                            <td>{f.bowlerZip}</td>
                             <td>{f.bowlerPhoneNumber}</td>
+                            <td>{f.teamId}</td>
                         </tr>
                     ))
                 }
