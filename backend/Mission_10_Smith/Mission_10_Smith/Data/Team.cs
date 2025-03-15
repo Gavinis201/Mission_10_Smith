@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace Mission_10_Smith.Data;
 
@@ -11,6 +12,7 @@ public partial class Team
 
     public int? CaptainId { get; set; }
 
+    [JsonIgnore]
     public virtual ICollection<Bowler> Bowlers { get; set; } = new List<Bowler>();
 
     public virtual ICollection<TourneyMatch> TourneyMatchEvenLaneTeams { get; set; } = new List<TourneyMatch>();

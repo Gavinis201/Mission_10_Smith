@@ -39,7 +39,7 @@ function BowlerList(){
                             <td>{f.bowlerState}</td>
                             <td>{f.bowlerZip}</td>
                             <td>{f.bowlerPhoneNumber}</td>
-                            <td>{f.teamId}</td>
+                            <td>{f.team.teamName}</td>
                         </tr>
                     ))
                 }

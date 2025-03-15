@@ -9,7 +9,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cbef782-6637-475c-8f90-54d6add8910d" name="Changes" comment="" />
+    <list default="true" id="4cbef782-6637-475c-8f90-54d6add8910d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission_10_Smith/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission_10_Smith/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/Data/Bowler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/Data/Bowler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/Data/Team.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/Data/Team.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/bin/Debug/net8.0/Mission_10_Smith.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/bin/Debug/net8.0/Mission_10_Smith.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/bin/Debug/net8.0/Mission_10_Smith.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/bin/Debug/net8.0/Mission_10_Smith.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/Mission_10_Smith.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/ref/Mission_10_Smith.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/ref/Mission_10_Smith.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/refint/Mission_10_Smith.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission_10_Smith/obj/Debug/net8.0/refint/Mission_10_Smith.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/bowler.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/bowler.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/types/bowler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/types/bowler.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +33,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -26,19 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.Mission_10_Smith: backend.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Mission_10_Smith: backend.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Mission_10_Smith: backend">
     <configuration name="Mission_10_Smith: backend" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Mission_10_Smith/Mission_10_Smith.csproj" />
@@ -95,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741921706933</updated>
       <workItem from="1741921708112" duration="6117000" />
+      <workItem from="1742009128925" duration="1569000" />
     </task>
     <servers />
   </component>
